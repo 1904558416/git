@@ -1,3 +1,17 @@
 # 设置提交代码时的用户信息
 $ git config [--global] user.name "[name]"
 $ git config [--global] user.email "[email address]"
+
+
+
+# 初始化 git init 
+
+# git status                 查看状态
+# git add .                  保存所有文件到暂存区
+# git commit                 提交文件到仓库
+# git config --list          查看当前的git配置
+# git log                    查看提交历史，以及提交发生变更的文件
+# git reset --hard 版本号     切换到当前版本
+
+
+
