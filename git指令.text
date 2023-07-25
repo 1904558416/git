@@ -11,7 +11,7 @@ $ git config [--global] user.email "[email address]"
 # git commit                 提交文件到仓库
 # git config --list          查看当前的git配置
 # git log                    查看提交历史，以及提交发生变更的文件
-# git reset --hard 版本号     切换到当前版本
-
+# git reset --hard 版本号    切换到当前版本
+# git reflog                 显示最近几次提交
 
 
